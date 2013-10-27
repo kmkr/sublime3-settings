@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
+	"color_scheme": "Packages/Colorsublime-Themes/Lava.tmTheme",
 	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
