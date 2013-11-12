@@ -19,6 +19,10 @@
     //This will display compact list of comparable files
     "compact_files_list": true,
 
+    //This will display custom comparisons list in a separate menu. You will need to select
+    //"Custom Comparison..." option after pressing ctrl+alt+d
+    "custom_comparisons_in_separate_menu": false,
+
 
     //DIFF ALGORITHM //////////////////////////////////////////////////////////////////////////////////
 
@@ -162,6 +166,18 @@
 
     //Additional arguments for 'svn cat' command
     "svn_cat_args": "",
+
+
+    //MERCURIAL SUPPORT (applicable when vcs_support = true)
+
+    //Path to hg executable
+    "hg_executable_path": "hg",
+
+    //Additional arguments for 'hg log' command
+    "hg_log_args": "--encoding=UTF-8",
+
+    //Additional arguments for 'hg cat' command
+    "hg_cat_args": "",
 
     //SYNTAX SPECIFIC SETTINGS ////////////////////////////////////////////////////////////////////////
     "syntax_specific": {
