@@ -1,12 +1,22 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Colorsublime-Themes/Lava.tmTheme",
-	"font_size": 10,
+	"color_scheme": "Packages/Colorsublime-Themes/Bittersweet.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 8,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Sublimerge Pro"
 	],
-	"save_on_focus_lost": true
+	"rulers":
+	[
+		100,
+		120
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"smart_indent": false
 }
