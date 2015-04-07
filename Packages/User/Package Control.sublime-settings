@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Colorsublime",
+		"EditorConfig",
+		"Git",
+		"Indent XML",
+		"LESS",
+		"Markdown Extended",
+		"Package Control",
+		"Theme - Afterglow"
+	]
+}
