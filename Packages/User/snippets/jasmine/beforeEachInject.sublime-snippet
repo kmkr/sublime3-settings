@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+beforeEach(inject(function ($1) {
+	$2
+}));]]>
+	</content>
+	<tabTrigger><![CDATA[bei]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>inject beforeEach</description>
+</snippet>
