@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+.controller('$1', [$2function ($3) {
+	$4
+}]);]]>
+	</content>
+	<tabTrigger><![CDATA[con]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>angular controller</description>
+</snippet>

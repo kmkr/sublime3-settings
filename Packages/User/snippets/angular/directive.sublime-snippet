@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+.directive('$1', [$2function ($3) {
+	return {
+		scope: {},
+		templateUrl: '$4.html',
+		link: function (scope) {
+			$5
+		}
+	}
+}]);]]>
+	</content>
+	<tabTrigger><![CDATA[dir]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>angular directive</description>
+</snippet>
