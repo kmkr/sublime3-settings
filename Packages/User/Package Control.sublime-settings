@@ -5,7 +5,9 @@
 	"installed_packages":
 	[
 		"EditorConfig",
+		"Emmet",
 		"Git",
+		"HTMLBeautify",
 		"Indent XML",
 		"LESS",
 		"Markdown Extended",
