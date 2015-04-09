@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-function () {
-	$1
+function $1($2) {
+	$3
 }]]>
 	</content>
 	<tabTrigger><![CDATA[fu]]></tabTrigger>
 	<scope>source.js</scope>
-	<description>anonymous function declaration</description>
+	<description>function declaration</description>
 </snippet>
