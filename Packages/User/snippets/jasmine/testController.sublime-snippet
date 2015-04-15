@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[describe('$1', function () {
+	var \$rootScope,
+	\$controller;
+
+	beforeEach(module('$2'));
+
+	beforeEach(inject(function (_\$rootScope_, _\$controller_) {
+		\$controller = _\$controller_;
+		\$rootScope = _\$rootScope_;
+	}));
+
+	function createController() {
+		return $controller('$3', \$rootScope);
+	}
+
+	describe('$4', function () {
+		beforeEach(function() {
+			createController();
+		});
+
+		it('should $5', function () {
+			$6
+		});
+	});
+});]]>
+	</content>
+	<tabTrigger><![CDATA[tcon]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>test controller</description>
+</snippet>

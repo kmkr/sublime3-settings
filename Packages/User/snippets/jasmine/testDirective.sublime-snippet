@@ -1,0 +1,37 @@
+<snippet>
+	<content><![CDATA[describe('$1', function () {
+	var \$rootScope,
+	\$httpBackend,
+	\$compile;
+
+	beforeEach(module('$2'))
+
+	beforeEach(inject(function (_\$httpBackend_, _\$compile_, _\$rootScope_) {
+		\$httpBackend = _\$httpBackend_;
+		\$compile = _\$compile_;
+		\$rootScope = _\$rootScope_;
+		\$httpBackend.whenGET('$3').respond('<div></div>');
+	}));
+
+	function createDirective() {
+		var html = '$4';
+		element = \$compile(html)(\$rootScope.\$new());
+		\$httpBackend.flush();
+	}
+
+	describe('$5', function () {
+		var element;
+		beforeEach(function() {
+			element = createDirective();
+		});
+
+		it('should $6', function () {
+			$7
+		});
+	});
+});]]>
+	</content>
+	<tabTrigger><![CDATA[tdir]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>test directive</description>
+</snippet>
