@@ -1,4 +1,12 @@
 /Local
-Package Control.cache
+/Packages
+/Index
+/Cache
+/Installed Packages
+!/Packages/User
 Package Control.last-run
-/Installed Packages/PyV8/win64-p3/config.json
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
