@@ -1,5 +1,8 @@
 /Local
-/Packages
+/Packages/*
+/Packages/User/*
+!/Packages/User/snippets
+!/Packages/User/snippets/*
 /Index
 /Cache
 /Installed Packages

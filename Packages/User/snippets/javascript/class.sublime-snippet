@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+class $1 {
+	constructor($2) {
+		$3
+	}
+
+	$4
+}]]>
+	</content>
+	<tabTrigger><![CDATA[cl]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>class declaration</description>
+</snippet>
