@@ -2,7 +2,7 @@
 	"auto_complete": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
 	"draw_white_space": "all",
 	"folder_exclude_patterns":
 	[
