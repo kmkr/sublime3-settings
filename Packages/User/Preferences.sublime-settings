@@ -12,7 +12,8 @@
 		".hg",
 		"CVS",
 		"node_modules",
-		"bower_components"
+		"bower_components",
+		"target"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 10,
