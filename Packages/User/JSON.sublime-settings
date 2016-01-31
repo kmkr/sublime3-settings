@@ -2,6 +2,8 @@
 	"extensions":
 	[
 		".jscrc",
-		".jscsrc"
+		".jscsrc",
+		".eslintrc",
+		".babelrc"
 	]
 }
