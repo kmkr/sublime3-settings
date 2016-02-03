@@ -31,7 +31,7 @@
 	});
 });]]>
 	</content>
-	<tabTrigger><![CDATA[tdir]]></tabTrigger>
+	<tabTrigger><![CDATA[5tdir]]></tabTrigger>
 	<scope>source.js</scope>
 	<description>test directive</description>
 </snippet>

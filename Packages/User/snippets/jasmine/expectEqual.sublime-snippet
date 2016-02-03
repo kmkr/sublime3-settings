@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[expect($1).toEqual($2);]]></content>
-	<tabTrigger><![CDATA[expe]]></tabTrigger>
-	<scope>source.js</scope>
-	<description>expect toEqual</description>
-</snippet>

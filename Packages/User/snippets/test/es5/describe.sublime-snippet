@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+describe('${1:}', function () {
+	$2
+});]]>
+	</content>
+	<tabTrigger><![CDATA[5desc]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>describe</description>
+</snippet>

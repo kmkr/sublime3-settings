@@ -25,7 +25,7 @@
 	});
 });]]>
 	</content>
-	<tabTrigger><![CDATA[tcon]]></tabTrigger>
+	<tabTrigger><![CDATA[5tcon]]></tabTrigger>
 	<scope>source.js</scope>
 	<description>test controller</description>
 </snippet>

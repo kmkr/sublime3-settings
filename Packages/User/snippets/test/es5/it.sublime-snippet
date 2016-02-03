@@ -4,7 +4,7 @@ it('should $1', function () {
 	$2
 });]]>
 	</content>
-	<tabTrigger><![CDATA[it]]></tabTrigger>
+	<tabTrigger><![CDATA[5it]]></tabTrigger>
 	<scope>source.js</scope>
 	<description>it</description>
 </snippet>
