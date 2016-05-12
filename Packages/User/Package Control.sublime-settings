@@ -13,12 +13,11 @@
 		"HTMLBeautify",
 		"LESS",
 		"Markdown Extended",
+		"Material Theme",
 		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Sass",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
-		"Theme - Afterglow",
-		"Theme - Spacegray"
+		"SublimeLinter-contrib-eslint"
 	]
 }
