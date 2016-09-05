@@ -9,6 +9,7 @@
 		"EditorConfig",
 		"Emmet",
 		"Git",
+		"GitGutter",
 		"GotoRowCol",
 		"HTMLBeautify",
 		"LESS",
